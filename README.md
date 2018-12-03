@@ -1,21 +1,17 @@
 # client
 
-> A Vue.js project
+> [在掘金上写了本项目的介绍](https://juejin.im/post/5c04a26ce51d45671f71afca)
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
+#客户端
 npm run dev
 
-# build for production with minification
-npm run build
+# 重新打开一个窗口(服务端)
+node server.js
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
